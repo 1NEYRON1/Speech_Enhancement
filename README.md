@@ -4,4 +4,6 @@
 
 Веса модели и подготовленный датасет доступны в kaggle:
 Лучший чекпоинт модели: https://www.kaggle.com/models/ilyatrofimenko/base-enhancement/
+
+
 Датасет: https://www.kaggle.com/datasets/ilyatrofimenko/voicebank-demand-16khz
