@@ -9,3 +9,7 @@
 
 
 Датасет: https://www.kaggle.com/datasets/ilyatrofimenko/voicebank-demand-16khz
+
+В файле quick_start_training.py описан быстрый запуск обучения, за 15 эпох достигающий моего лучшего качества
+
+В тетрадке evaluation.ipynb можно увидеть результаты работы обученной модели
